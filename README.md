@@ -73,21 +73,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### GFG PROJECT RELATED:
 How this project, courseExplorer, respond to these key features
 
-# A user friendly and respnsive ChatBot that will deal with user's queries regarding courses details, FAQs related to courese and their personal queries that are not covered in FAQs
+### A user friendly and respnsive ChatBot that will deal with user's queries regarding courses details, FAQs related to courese and their personal queries that are not covered in FAQs
 
-# FAQ integration I am using a dataset of FAQs made from sothbey's institute data which covers most of the users questions
+### FAQ integration I am using a dataset of FAQs made from sothbey's institute data which covers most of the users questions
 
-# NLP -> I was trying to use tensorflow.js BERT model to answer the queries of users related to given topics based on articles present about the topic on site and ask of user satisfaction and based on that add it to the queries setion permanently  (but unfortunately at last moments some error was occuring in my model and I was not able to do that part)
+### NLP -> I was trying to use tensorflow.js BERT model to answer the queries of users related to given topics based on articles present about the topic on site and ask of user satisfaction and based on that add it to the queries setion permanently  (but unfortunately at last moments some error was occuring in my model and I was not able to do that part)
 
-# fallback to doubt assistant not implemented
+### fallback to doubt assistant not implemented
 
-# user satisfaction not implemented
+### user satisfaction not implemented
 But I was planning on using a feedback form where user rate with stars to the chatbot's perf afyter ending the conservation
 
-# data sharing and perf monitoring not implemented
+### data sharing and perf monitoring not implemented
 
 
-### about projet
+## about projet
 I have used react to create this project
 react-chatbot-kit specifically to create this chatbot
 and using tensorflow.js bert model for nlp(but that is not working yet)
